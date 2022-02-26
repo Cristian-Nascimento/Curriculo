@@ -1,2 +1,3 @@
-# Curriculo
- habilidades e conhecimentos
+# Currículo
+ Primeiro projeto do Curso de Programador Web
+ 
